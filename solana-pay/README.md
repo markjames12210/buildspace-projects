@@ -53,3 +53,7 @@ First, head over to this [faucet](https://spl-token-faucet.com/?token-name=USDC?
 
 ### **🛒 Add items via your app**
 
+### **🎓 Finishing touches**
+
+The mainnet USDC SPL token address is EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+
