@@ -50,3 +50,6 @@ First, head over to this [faucet](https://spl-token-faucet.com/?token-name=USDC?
 
 
 ### **💾 Read from our database**
+
+### **🛒 Add items via your app**
+
