@@ -70,7 +70,7 @@ export default function Buy({ itemID }) {
         <IPFSDownload filename="emojis.zip" hash="QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5" cta="Download emojis"/>
       ) : (
         <button disabled={loading} className="buy-button" onClick={processTransaction}>
-          Buy now 🠚
+          Buy now 💥
         </button>
       )}
     </div>
