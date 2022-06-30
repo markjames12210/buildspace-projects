@@ -42,6 +42,11 @@ The main fields we care about are the id, name, and price fields.
 
 4. Check if the transaction has been confirmed
 
-### **🥺 Get paid in SOL tokens**
+### **🥺 Get paid in USDC**
 
 First, head over to this [faucet](https://spl-token-faucet.com/?token-name=USDC?utm_source=buildspace.so&utm_medium=buildspace_project) to request some USDC tokens
+
+### **💳 Turn transactions to payments**
+
+
+### **💾 Read from our database**
